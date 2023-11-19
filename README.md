@@ -1,2 +1,4 @@
 # Netflixcloneproject
-visitlink:https://netflix-bice-nine.vercel.app/ 
+visitlink
+
+https://netflix-bice-nine.vercel.app/
